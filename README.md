@@ -1,1 +1,1 @@
-# Java-spring-supermarket-website
+Java-swing-send-and-recieving-message-via-UDP
